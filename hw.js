@@ -244,3 +244,31 @@ Display the numbers 0 through 10 (inclusive) in acesnding order  but skip displa
   */
 
 /* WRITE YOUR ANSWER HERE */
+var day = 1;
+switch (day) {
+  case 1:
+    day = console.log(monday);
+    break;
+    case 2:
+    day = console.log(Tuesday);
+    break;
+    case 3:
+    day = console.log(wednesday);
+    break;
+    case 4:
+    day = console.log(Thursday);
+    break;
+    case 5:
+    day = console.log(Friday);
+    break;
+    case 6:
+    day = console.log(Saturday);
+    break;
+    case 7:
+    day = console.log(Sunday);
+    break;
+
+  default:
+    day
+    break;
+}
