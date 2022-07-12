@@ -207,6 +207,9 @@ Display the numbers 0 through 10 (inclusive) in acesnding order using a for loop
 */
 
 /* WRITE YOUR ANSWER HERE */
+for (let i = 0; i <=10; i++){
+  console.log(i);
+}
 
 /* EXERCISE 14
 Display the numbers 0 through 10 (inclusive) in acesnding order  but skip displaying 3 and 8.
