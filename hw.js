@@ -216,7 +216,9 @@ Display the numbers 0 through 10 (inclusive) in acesnding order  but skip displa
 */
 
 /* WRITE YOUR ANSWER HERE */
-
+for (let i = 0; i <=10; i++){
+  console.log(i);
+}
 /* EXERCISE 15
  Write a JavaScript for loop that will iterate from 0 to 15. For each iteration, it will check if the current number is odd or even, and display a message to the screen
 */
