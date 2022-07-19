@@ -224,6 +224,13 @@ for (let i = 0; i <=10; i++){
 */
 
 /* WRITE YOUR ANSWER HERE */
+for(var i = 0; i <=15; i++){
+  if (i%2 === 0){
+    console.log(i + "is even")
+  }else{
+    console.log(i + "is odd")
+  }
+}
 
 /* EXERCISE 16
   Write a JavaScript program which iterates the integers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz
